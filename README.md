@@ -1,4 +1,4 @@
-# <div align="center"><img src="assets/dashboard.png" alt="MANTIS Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/><br>🤖 MANTIS 🤖</div>
+# <div align="center"><img src="assets/dashboard.png" alt="MANTIS Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/><br>MANTIS</div>
 
 <div align="center">
   <h3>Autonomous Fraud Intelligence Ecosystem — Unified Threat Correlation Operating System</h3>
@@ -14,11 +14,11 @@
 
 ---
 
-## 🌌 Project Overview
+## Project Overview
 
 **MANTIS** is a cutting-edge, autonomous cyber threat intelligence and active deception platform tailored for identifying, tracking, and disrupting financial fraud syndicates. By combining Graph Neural Networks (GNNs), real-time heuristic sequence tracking, and generative deception pipelines powered by **Gemini 3.5 Flash**, MANTIS maps the digital signatures of banking Trojans and automatically deploys decoys to misdirect attackers.
 
-## 🎯 Key Capabilities & Dashboards
+## Key Capabilities & Dashboards
 
 MANTIS is structured around five main intelligence dashboards:
 
@@ -54,7 +54,7 @@ MANTIS is structured around five main intelligence dashboards:
 
 ---
 
-## 🛠 Tech Stack & Architecture
+## Tech Stack & Architecture
 
 * **Frontend Engine:**
   * **React 19** & **TypeScript** — Component architecture and state safety.
@@ -70,7 +70,7 @@ MANTIS is structured around five main intelligence dashboards:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18.x or later recommended)
@@ -105,6 +105,6 @@ npm start
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
