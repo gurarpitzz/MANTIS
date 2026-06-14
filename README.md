@@ -1,4 +1,4 @@
-# <div align="center"><img src="assets/dashboard.png" alt="MANTIS Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/><br>MANTIS</div>
+# <div align="center"><img src="assets/screenshot_1.png" alt="MANTIS Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/><br>MANTIS</div>
 
 <div align="center">
   <h3>Autonomous Fraud Intelligence Ecosystem — Unified Threat Correlation Operating System</h3>
@@ -23,28 +23,40 @@
 MANTIS is structured around five main intelligence dashboards:
 
 ### 1. Fraud Constellation (Unified Correlation Galaxy)
+<div align="center">
+  <img src="assets/screenshot_2.png" alt="Fraud Constellation Correlation Galaxy" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
+</div>
+
 * **What it does:** Visualizes relationships between compromised targets, command & control (C2) servers, active banking Trojans, and mule bank accounts.
 * **Technology:** Dynamic interactive force-directed graph (D3.js) modeling real-time nodes and connections, highlighting anomaly vectors.
 
 ### 2. Threat Genome Core
 <div align="center">
-  <img src="assets/threat_genome.png" alt="Threat Genome Visualizer" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
+  <img src="assets/screenshot_3.png" alt="Threat Genome Core" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
 </div>
 
 * **What it does:** Breaks down banking Trojan behaviors (such as overlay injection, SMS reader capture, contact exfiltration) using a rotating 3D DNA-like helix.
 * **Technology:** Micro-animated visual sequences showing signature genome nodes mapped to Trojan capabilities.
 
 ### 3. Laundering Nexus
+<div align="center">
+  <img src="assets/screenshot_4.png" alt="Laundering Nexus GNN Link Analysis" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
+</div>
+
 * **What it does:** Graph-based financial link analysis that traces money routing, identifies suspicious Paytm/UPI accounts, and maps cooperative laundering rings.
 * **Technology:** Advanced node categorization pointing out high-risk clearing house nodes.
 
 ### 4. Threat Oracle
+<div align="center">
+  <img src="assets/screenshot_5.png" alt="Threat Oracle Predictive Engine" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
+</div>
+
 * **What it does:** Transformer-driven predictive engine that forecasts money exfiltration branches and attacker moves before withdrawals take place.
 * **Technology:** Visualizes divergent potential future threat timelines, calculating branch probability scores.
 
 ### 5. APK Sandbox & Assembly Lab
 <div align="center">
-  <img src="assets/apk_sandbox.png" alt="APK Assembly & Decompiler Sandbox" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
+  <img src="assets/screenshot_6.png" alt="APK Sandbox & Assembly Lab" width="80%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;"/>
 </div>
 
 * **What it does:** Provides an interactive reverse-engineering simulation. Users can upload/simulate malicious Android APK files, analyze requested permissions, extract API signatures, and generate Gemini-powered explainable AI reports highlighting threat behaviors.
